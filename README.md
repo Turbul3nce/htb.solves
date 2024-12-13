@@ -1,2 +1,4 @@
-### Automated Solves for HTB Challenges
-* Scripts to solves challenges from Hack The Box.
+#### HTB Challenge Solves:
+###### WEB:
+* [Pentest Notes](/web/pentest.notes/solve.py)
+* [Pop Restaurant](/web/pop.retaurant/solve.py)
